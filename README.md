@@ -7,3 +7,5 @@ Para visualizar a demonstração acima em alta resolução (até 1080p), [clique
 
 ### Descrição
 "Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo os principais conceitos CSS Grid, manipulação de Array e Arrow Functions."
+## Como jogar
+Para iniciar o jogo basta executar o arquivo index.html em um navegador de internet a partir de uma cópia do repositório em um diretório local.
